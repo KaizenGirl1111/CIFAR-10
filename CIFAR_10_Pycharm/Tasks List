@@ -1,0 +1,12 @@
+- Build a simple image classification model using CIFAR 10 dataset
+- Classify an image into 1 of 10 categories
+- Learn about the CIFAR 10 dataset and download it
+- Build the model in pycharm
+    - Build a sequential model using keras
+    - Train and test the model
+    - Save the model to a protobuf file for android import
+- Build an android app
+    - Create android project and perform basic set up
+    - Build a simple UI
+    - Write the code to convert an image and perform classification
+    - Test the app using an emulator
